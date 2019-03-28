@@ -12,5 +12,5 @@ namespace ConsoleApp7
             console.WriteLine("Hello");
         }
     }
-}
+} //ko0mentar doddan ispravljeno!
 // o huehuehueheu
